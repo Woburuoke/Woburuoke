@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)]
+![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)
 <h1 align="center">Hi 👋, I'm Woboh Favour</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
